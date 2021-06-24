@@ -5,14 +5,15 @@ A real time dashboard that lets traders know the sentiment of the street (Bombay
 ### Peak fearful street
 ![Screenshot (676)](https://user-images.githubusercontent.com/56163096/123312970-9b02a180-d546-11eb-9a7e-1a090da28a0b.png)
 
-### Moderately greedy street
-![Screenshot (674)](https://user-images.githubusercontent.com/56163096/123313070-bcfc2400-d546-11eb-81d7-8c8b2aee881c.png)
 
 ### Moderately fearful street
 ![Screenshot (675)](https://user-images.githubusercontent.com/56163096/123313083-c1284180-d546-11eb-8e8b-7db7950fe58f.png)
 
+
 ### Peak greedy street
-![Screenshot (676)](https://user-images.githubusercontent.com/56163096/123313092-c4233200-d546-11eb-8a0a-08672e95fa96.png)
+![Screenshot (673)](https://user-images.githubusercontent.com/56163096/123314247-fa14e600-d547-11eb-9491-eb10882b342e.png)
 
 
+### Moderately greedy street
+![Screenshot (674)](https://user-images.githubusercontent.com/56163096/123313070-bcfc2400-d546-11eb-81d7-8c8b2aee881c.png)
 
