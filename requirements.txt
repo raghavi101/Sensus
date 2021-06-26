@@ -1,0 +1,5 @@
+Adafruit_IO.client
+os
+requests
+bs4
+sys
