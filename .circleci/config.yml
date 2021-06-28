@@ -1,0 +1,30 @@
+version: 2.1
+
+orbs:
+  python: circleci/python@1.2
+
+workflows:  
+    jobs:
+      - build-and-test
+      
+jobs:
+  build-and-test:
+    docker:
+      - image: circleci/python:3.6.4 
+    
+    steps:
+      - checkout
+
+      - run : 
+          name: install dependencies
+          command: |
+            python3 -m venv venv
+            . venv/bin/activate
+            pip install -r requirements.txt 
+
+      - run:
+          name: Run tests
+          command: |
+            . venv/bin/activate
+            python test_main.py
+          
