@@ -4,6 +4,10 @@ Adafruit-PlatformDetect==3.14.0
 Adafruit-PureIO==1.1.9
 beautifulsoup4==4.8.2
 bs4==0.0.1
-pydantic==1.8.2
+pyinstaller==4.0
+pyinstaller-hooks-contrib==2020.9
+PyYAML==5.4.1
 requests==2.23.0
+safety==1.10.3
+virtualenv==20.4.7
 

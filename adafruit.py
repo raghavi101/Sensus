@@ -20,6 +20,13 @@ class Adafruit :
         self.aio.send('gaugemeter', value=rsival)
 
 
+    def send_val_test(self, rsival):
+
+        ''' Sensus_test '''
+
+        self.rsival=rsival
+        self.aio.send('gaugemeter_test', value=rsival)
+
 
 
 
