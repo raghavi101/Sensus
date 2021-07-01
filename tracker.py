@@ -14,7 +14,7 @@ class Tracker:
         page = requests.get(
         "https://www.moneycontrol.com/technical-analysis/indian-indices/sensex-4/daily")
         soup = BeautifulSoup(page.content, 'html.parser')
-        self.rsival = soup.select('strong')[37].text
+        self.rsival = soup.select('strong')[35].text
 
     def fetch_val(self):
   
